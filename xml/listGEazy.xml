@@ -67,7 +67,7 @@
 				<feat10>Anna of the North</feat10>
 				<length10>3:47</length10>
 			</track10>
-			<track10>
+			<track11>
 				<title11>Gotdamn</title11>
 				<feat11>-</feat11>
 				<length11>2:52</length11>
@@ -82,16 +82,41 @@
 				<feat13>Kehlani</feat13>
 				<length13>3:00</length13>
 			</track13>
-			<track10>
-				<title10></title10>
-				<feat10></feat10>
-				<length10></length10>
-			</track10>
-			<track10>
-				<title10></title10>
-				<feat10></feat10>
-				<length10></length10>
-			</track10>
+			<track14>
+				<title14>Summer in December</title14>
+				<feat14>-</feat14>
+				<length14>3:06</length14>
+			</track14>
+			<track15>
+				<title15>Charles Brown</title15>
+				<feat15>E-40, Jay Ant</feat15>
+				<length15>4:48</length15>
+			</track15>
+			<track16>
+				<title16></title16>
+				<feat16></feat16>
+				<length16></length16>
+			</track16>
+			<track17>
+				<title17>Mama Always Told Me</title17>
+				<feat17>Madison Love</feat17>
+				<length17>3:11</length17>
+			</track17>
+			<track18>
+				<title18>Fly Away</title18>
+				<feat18>Ugochi</feat18>
+				<length18>3:31</length18>
+			</track18>
+			<track19>
+				<title19>Love Is Gone</title19>
+				<feat19>Drew Love</feat19>
+				<length19>3:54</length19>
+			</track19>
+			<track20>
+				<title20>Eazy</title20>
+				<feat20>Son Lux</feat20>
+				<length20>5:09</length20>
+			</track20>
 		</tracks>
 	</album>
 </artist>
