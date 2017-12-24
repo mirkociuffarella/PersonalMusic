@@ -1,0 +1,97 @@
+<artist>
+	<info>
+		<name>G-Eazy</name>
+		<nationality>United States</nationality>
+	</info>
+	<album>
+		<title>The Beautiful & Damned</title>
+		<version>-</version>
+		<type>Studio</type>
+		<genre>Hip-Hop/Rap</genre>
+		<release>15/12/17</release>
+		<label>RCA Records</label>
+		<support>CD</support>
+		<format>-</format>
+		<store>Disco Stores</store>
+		<place>1.1</place>
+		<status>Present</status>
+		<notes>-</notes>
+		<tracks>
+			<track01>
+				<title01>The Beautiful & Damned</title01>
+				<feat01>Zoe Nash</feat01>
+				<length01>3:09</length01>
+			</track01>
+			<track02>
+				<title02>Pray for Me</title02>
+				<feat02>-</feat02>
+				<length02>3:27</length02>
+			</track02>
+			<track03>
+				<title03>Him & I</title03>
+				<feat03>Halsey</feat03>
+				<length03>4:28</length03>
+			</track03>
+			<track04>
+				<title04>But a Dream</title04>
+				<feat04>-</feat04>
+				<length04>3:26</length04>
+			</track04>
+			<track05>
+				<title05>Sober</title05>
+				<feat05>Charlie Puth</feat05>
+				<length05>3:23</length05>
+			</track05>
+			<track06>
+				<title06>Legend</title06>
+				<feat06>-</feat06>
+				<length06>3:25</length06>
+			</track06>
+			<track07>
+				<title07>No Limit</title07>
+				<feat07>A$AP Rocky, Cardi B</feat07>
+				<length07>4:05</length07>
+			</track07>
+			<track08>
+				<title08>The Plan</title08>
+				<feat08>-</feat08>
+				<length08>4:10</length08>
+			</track08>
+			<track09>
+				<title09>That's a Lot</title09>
+				<feat09>-</feat09>
+				<length09>3:24</length09>
+			</track09>
+			<track10>
+				<title10>Pick Me Up</title10>
+				<feat10>Anna of the North</feat10>
+				<length10>3:47</length10>
+			</track10>
+			<track10>
+				<title11>Gotdamn</title11>
+				<feat11>-</feat11>
+				<length11>2:52</length11>
+			</track11>
+			<track10>
+				<title12>Leviathan</title12>
+				<feat12>Sam Martin</feat12>
+				<length12>3:47</length12>
+			</track12>
+			<track13>
+				<title13>Crash & Burn</title13>
+				<feat13>Kehlani</feat13>
+				<length13>3:00</length13>
+			</track13>
+			<track10>
+				<title10></title10>
+				<feat10></feat10>
+				<length10></length10>
+			</track10>
+			<track10>
+				<title10></title10>
+				<feat10></feat10>
+				<length10></length10>
+			</track10>
+		</tracks>
+	</album>
+</artist>
