@@ -1,0 +1,114 @@
+.info{
+	font:;
+	color:;
+}
+
+.album{
+	font:;
+	color:;
+}
+
+.track{
+	font:;
+	color:;
+}
+
+#boxInfo{
+	border:;
+}
+
+#boxArtist{
+	border:;
+	border-top:;
+	border-left:;
+}
+
+#boxNationality{
+	border:;
+	border-top:;
+	border-left:;
+}
+
+#boxAlbum{
+	border:;
+	border-top:;
+	border-left:;
+}
+
+#boxTitle{
+	border:;
+	border-top:;
+	border-left:;
+}
+
+#boxVersion{
+	border:;
+	border-top:;
+	border-left:;
+}
+
+#boxType{
+	border:;
+	border-top:;
+	border-left:;
+}
+
+#boxGenre{
+	border:;
+	border-top:;
+	border-left:;
+}
+
+#boxRelease{
+	border:;
+	border-top:;
+	border-left:;
+}
+
+#boxLabel{
+	border:;
+	border-top:;
+	border-left:;
+}
+
+#boxSupport{
+	border:;
+	border-top:;
+	border-left:;
+}
+
+#boxFormat{
+	border:;
+	border-top:;
+	border-left:;
+}
+
+#boxStore{
+	border:;
+	border-top:;
+	border-left:;
+}
+
+#boxPlace{
+	border:;
+	border-top:;
+	border-left:;
+}
+
+#boxStatus{
+	border:;
+	border-top:;
+	border-left:;
+}
+
+#boxNotes{
+	border:;
+	border-top:;
+	border-left:;
+}
+
+#boxTracks{
+	border:;
+	border-top:;
+	border-left:;
+}
