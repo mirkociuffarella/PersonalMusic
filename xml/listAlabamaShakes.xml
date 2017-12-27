@@ -1,0 +1,82 @@
+<artist>
+	<info>
+		<name>Alabama Shakes</name>
+		<nationality>United States</nationality>
+	</info>
+	<album>
+		<title>Sound & Color</title>
+		<version>-</version>
+		<type>Studio</type>
+		<genre>Alternative</genre>
+		<release>21/04/15</release>
+		<label>ATO Records</label>
+		<support>CD</support>
+		<format>-</format>
+		<store>Disco Stores</store>
+		<place>1.2</place>
+		<status>Present</status>
+		<notes>-</notes>
+		<tracks>
+			<track01>
+				<title01>Sound & Color</title01>
+				<feat01>-</feat01>
+				<length01>3:02</length01>
+			</track01>
+			<track02>
+				<title02>Don't Wanna Fight</title02>
+				<feat02>-</feat02>
+				<length02>3:53</length02>
+			</track02>
+			<track03>
+				<title03>Dunes</title03>
+				<feat03>-</feat03>
+				<length03>4:18</length03>
+			</track03>
+			<track04>
+				<title04>Future People</title04>
+				<feat04>-</feat04>
+				<length04>3:22</length04>
+			</track04>
+			<track05>
+				<title05>Gimme All Your Love</title05>
+				<feat05>-</feat05>
+				<length05>4:03</length05>
+			</track05>
+			<track06>
+				<title06>This Feeling</title06>
+				<feat06>-</feat06>
+				<length06>4:29</length06>
+			</track06>
+			<track07>
+				<title07>Guess Who</title07>
+				<feat07>-</feat07>
+				<length07>3:16</length07>
+			</track07>
+			<track08>
+				<title08>The Greatest</title08>
+				<feat08>-</feat08>
+				<length08>3:50</length08>
+			</track08>
+			<track09>
+				<title09>Shoegaze</title09>
+				<feat09>-</feat09>
+				<length09>2:59</length09>
+			</track09>
+			<track10>
+				<title10>Miss You</title10>
+				<feat10>-</feat10>
+				<length10>3:47</length10>
+			</track10>
+			<track11>
+				<title11>Gemini</title11>
+				<feat11>-</feat11>
+				<length11>6:36</length11>
+			</track11>
+			<track12>
+				<title12>Over My Head</title12>
+				<feat12>-</feat12>
+				<length12>3:51</length12>
+			</track12>
+		</tracks>
+	</album>
+</artist>
