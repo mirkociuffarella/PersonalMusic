@@ -1,0 +1,87 @@
+<artist>
+	<info>
+		<name>Logic</name>
+		<nationality>United States</nationality>
+	</info>
+	<album>
+		<title>Everybody</title>
+		<version>-</version>
+		<type>Studio</type>
+		<genre>Hip-Hop/Rap</genre>
+		<release>05/05/17</release>
+		<label>Def Jam Recordings</label>
+		<support>CD</support>
+		<format>-</format>
+		<store>Disco Stores</store>
+		<place>1.2</place>
+		<status>Present</status>
+		<notes>-</notes>
+		<tracks>
+			<track01>
+				<title01>Hallelujah</title01>
+				<feat01>-</feat01>
+				<length01>7:28</length01>
+			</track01>
+			<track02>
+				<title02>Everybody</title02>
+				<feat02>-</feat02>
+				<length02>2:42</length02>
+			</track02>
+			<track03>
+				<title03>Confess</title03>
+				<feat03>Killer Mike</feat03>
+				<length03>5:43</length03>
+			</track03>
+			<track04>
+				<title04>Killing Spree</title04>
+				<feat04>Ansel Elgort</feat04>
+				<length04>3:26</length04>
+			</track04>
+			<track05>
+				<title05>Take It Back</title05>
+				<feat05>-</feat05>
+				<length05>6:40</length05>
+			</track05>
+			<track06>
+				<title06>America</title06>
+				<feat06>Black Thought, Chuck D, Big Lenbo, No I.D.</feat06>
+				<length06>5:31</length06>
+			</track06>
+			<track07>
+				<title07>Ink Blot</title07>
+				<feat07>Juicy J</feat07>
+				<length07>2:36</length07>
+			</track07>
+			<track08>
+				<title08>Mos Definitely</title08>
+				<feat08>-</feat08>
+				<length08>3:26</length08>
+			</track08>
+			<track09>
+				<title09>Waiting Room</title09>
+				<feat09>-</feat09>
+				<length09>4:43</length09>
+			</track09>
+			<track10>
+				<title10>1-800-273-8255</title10>
+				<feat10>Alessia Cara, Khalid</feat10>
+				<length10>4:10</length10>
+			</track10>
+			<track11>
+				<title11>Anziety</title11>
+				<feat11>Lucy Rose</feat11>
+				<length11>6:52</length11>
+			</track11>
+			<track12>
+				<title12>Black Spiderman</title12>
+				<feat12>Damian Lemar Hudson</feat12>
+				<length12>5:31</length12>
+			</track12>
+			<track13>
+				<title13>AfricAryaN</title13>
+				<feat13>Neil deGrasse Tyson</feat13>
+				<length13>12:08</length13>
+			</track13>
+		</tracks>
+	</album>
+</artist>
