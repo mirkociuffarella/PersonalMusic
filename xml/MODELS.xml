@@ -1,4 +1,4 @@
-<!--
+
 MODELLO GENERALE CD
 <artist>
 	<info>
@@ -69,9 +69,61 @@ MODELLO GENERALE CD
 				<feat10></feat10>
 				<length10></length10>
 			</track10>
+			<track11>
+				<title11></title11>
+				<feat11></feat11>
+				<length11></length11>
+			</track11>
+			<track12>
+				<title12></title12>
+				<feat12></feat12>
+				<length12></length12>
+			</track12>
+			<track13>
+				<title13></title13>
+				<feat13></feat13>
+				<length13></length13>
+			</track13>
+			<track14>
+				<title14></title14>
+				<feat14></feat14>
+				<length14></length14>
+			</track14>
+			<track15>
+				<title15></title15>
+				<feat15></feat15>
+				<length15></length15>
+			</track15>
+			<track16>
+				<title16></title16>
+				<feat16></feat16>
+				<length16></length16>
+			</track16>
+			<track17>
+				<title17></title17>
+				<feat17></feat17>
+				<length17></length17>
+			</track17>
+			<track18>
+				<title18></title18>
+				<feat18></feat18>
+				<length18></length18>
+			</track18>
+			<track19>
+				<title19></title19>
+				<feat19></feat19>
+				<length19></length19>
+			</track19>
+			<track20>
+				<title20></title20>
+				<feat20></feat20>
+				<length20></length20>
+			</track20>
 		</tracks>
 	</album>
 </artist>
+
+
 
 MODELLO GENERALE 1LP
 <artist>
@@ -150,6 +202,5 @@ MODELLO GENERALE 1LP
 		</tracks>
 	</album>
 </artist>
--->
 
 
